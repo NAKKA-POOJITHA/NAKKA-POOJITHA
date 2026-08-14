@@ -5,6 +5,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NAKKA-POOJITHA/NAKKA-POOJITHA/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/NAKKA-POOJITHA/NAKKA-POOJITHA/output/pacman-contribution-graph.svg">
 </picture>
+
+
 # 💫 About Me:
 🔭 I’m currently working on WildFireCatch: Autonomous Wildfire Detection & Emergency Guidance<br><br>🎓 I’m a 3rd Year B.Tech Computer Science Engineering student<br><br>🌱 I’m currently learning Machine Learning & Full-Stack Web Development<br><br>💻 Tech stack focus: Java, Python, Frontend & Backend Development<br><br>👯 I’m looking to collaborate on Open-Source Web Dev & Machine Learning projects<br><br>💬 Ask me about Python, Java, or Machine Learning basics
 
