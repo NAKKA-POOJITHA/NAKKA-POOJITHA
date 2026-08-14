@@ -1,15 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=NAKKA-POOJITHA&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
+
+# 💫 About Me:
+🔭 I’m currently working on WildFireCatch: Autonomous Wildfire Detection & Emergency Guidance<br><br>🎓 I’m a 3rd Year B.Tech Computer Science Engineering student<br><br>🌱 I’m currently learning Machine Learning & Full-Stack Web Development<br><br>💻 Tech stack focus: Java, Python, Frontend & Backend Development<br><br>👯 I’m looking to collaborate on Open-Source Web Dev & Machine Learning projects<br><br>💬 Ask me about Python, Java, or Machine Learning basics
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NAKKA-POOJITHA/NAKKA-POOJITHA/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NAKKA-POOJITHA/NAKKA-POOJITHA/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/NAKKA-POOJITHA/NAKKA-POOJITHA/output/pacman-contribution-graph.svg">
 </picture>
-
-
-# 💫 About Me:
-🔭 I’m currently working on WildFireCatch: Autonomous Wildfire Detection & Emergency Guidance<br><br>🎓 I’m a 3rd Year B.Tech Computer Science Engineering student<br><br>🌱 I’m currently learning Machine Learning & Full-Stack Web Development<br><br>💻 Tech stack focus: Java, Python, Frontend & Backend Development<br><br>👯 I’m looking to collaborate on Open-Source Web Dev & Machine Learning projects<br><br>💬 Ask me about Python, Java, or Machine Learning basics
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poojitha-nakka-20a194321/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@leetcoder_pooja) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:poojithampc10@gmail.com) 
