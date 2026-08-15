@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=NAKKA-POOJITHA&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
 
-### 🚀 About Me
+### About Me
 - 🎓 **3rd Year CSE Student** passionate about **ML & Full-Stack Development**
 - 🔭 Working on **WildFireCatch** (Autonomous Wildfire Detection & Emergency Guidance)
 - 🤝 Open to collaborating on **Machine Learning & Open-Source Web Dev**
